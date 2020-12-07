@@ -1,0 +1,13 @@
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\bin\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.exe
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\bin\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.deps.json
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\bin\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.runtimeconfig.json
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\bin\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.runtimeconfig.dev.json
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\bin\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.dll
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\bin\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.pdb
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\obj\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\obj\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.AssemblyInfoInputs.cache
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\obj\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.AssemblyInfo.cs
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\obj\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\obj\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.dll
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\obj\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.pdb
+C:\Users\jruan\source\repos\ExerciciLinq_FaseIV\ExerciciLinq_FaseIV\obj\Debug\netcoreapp3.1\ExerciciLinq_FaseIV.genruntimeconfig.cache
